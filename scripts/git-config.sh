@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # Enable us to push, through email privacy features
-git config --global user.email 148553+cryptogoth@users.noreply.github.com
+git config --global user.email 114445048+EvergreenSpock@users.noreply.github.com
