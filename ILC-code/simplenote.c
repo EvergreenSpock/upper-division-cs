@@ -18,7 +18,7 @@ int main(int argc, char *argv[]){
 
     buffer = (char *) ec_malloc(100);
     datafile = (char *) ec_malloc(20);
-    strcpy(datafile, "tmp/notes");
+    strcpy(datafile, "/tmp/notes");
 
     if(argc < 2) //If no args
         usage(argv[0], datafile); //display usage message and exit
